@@ -11,16 +11,14 @@ YouTube search at Shortcut command.
 
 ###Setup
 ######1 : Download => Install<br>
-Download the crx binary from [Releases (Beta => v0.0.1)](). <br>
+Download the crx binary from Releases (Beta => v0.0.1). <br>
 To install the extension,<br>
-Please open the [chrome://extensions](chrome://extensions) page and drag and drop the .crx file from the Downloads.
+Open the [chrome://extensions](chrome://extensions) page and drag and drop the .crx file.
 
 ######2 :Shortcut command Setup<br>
-Please a add shortcuts this extension<br>
-from the this dialog.
+Add shortcuts this extension<br>
+from [chrome://extensions/configureCommands](chrome://extensions/configureCommands) page.
 
-[chrome://extensions/configureCommands](chrome://extensions/configureCommands)
- dialog.
 <br>
 
 	Add to Shortcut command : Ctrl + Shift + Z
