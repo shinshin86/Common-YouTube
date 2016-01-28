@@ -1,0 +1,35 @@
+{
+    "manifest_version": 2,
+    "name": "Common YouTube",
+    "description": "YouTube search at Shortcut command",
+    "version": "0.1",
+
+    "permissions":[
+            "tabs",
+            "http://*/*",
+            "https://*/*"
+    ],
+    "background": {
+                "scripts": ["popup_init.js"],
+                "persistent": false
+                  },
+    "icons" : {
+                "128": "CY.png"
+    },
+    "browser_action":{
+        "default_popup": "popup.html",
+        "default_icon": "CY.png"
+    },
+    "commands": {
+        "_execute_browser_action": {
+            "description": "YouTube search command",
+            "global": true,
+            "suggested_key": {
+                "default": "Ctrl+Shift+Z",
+                "windows": "Ctrl+Shift+Z",
+                "mac": "MacCtrl+Shift+Z",
+                "linux": "Ctrl+Shift+Z"
+            }
+        }
+    }
+}
