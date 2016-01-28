@@ -1,4 +1,4 @@
-# Common-YouTube (Comming soon)
+# Common-YouTube
 YouTube search at Chrome extension.
 
 
