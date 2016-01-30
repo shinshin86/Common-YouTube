@@ -1,4 +1,4 @@
-# Common-YouTube
+# Common-YouTube (Beta => v0.0.2)
 YouTube search at Chrome extension.
 
 
@@ -11,7 +11,7 @@ YouTube search at Shortcut command.
 
 ###Setup
 ######1 : Download => Install<br>
-Download the crx binary from Releases (Beta => v0.0.1). <br>
+Download the crx binary from [Releases (Beta => v0.0.2).](https://github.com/shinshin86/Common-YouTube/releases/tag/v0.0.2) <br>
 To install the extension,<br>
 Open the [chrome://extensions](chrome://extensions) page and drag and drop the .crx file.
 
