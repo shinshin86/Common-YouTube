@@ -3,6 +3,8 @@
     "name": "Common YouTube",
     "description": "YouTube search at Shortcut command",
     "version": "0.1",
+    "author": "shinshin86",
+    "homepage_url": "https://github.com/shinshin86",
 
     "permissions":[
             "tabs",
