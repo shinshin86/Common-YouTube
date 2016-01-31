@@ -14,16 +14,15 @@ YouTube検索を行うためのショートカットコマンドを提供しま�
 crxファイル をこちらからダウンロードして下さい ⇒ [Releases (Beta => v0.0.2).](https://github.com/shinshin86/Common-YouTube/releases/tag/v0.0.2) <br>
 
 ######・拡張機能のインストール方法<br>
-Chrome拡張機能ページを開き([chrome://extensions](chrome://extensions))、先ほどダウンロードしたcrxファイルをドラッグ・アンド・ドロップで格納してください。
+Chrome拡張機能ページ([chrome://extensions](chrome://extensions))を開き、先ほどダウンロードしたcrxファイルをドラッグ・アンド・ドロップで格納してください。
 
-######2 :ショートカットコマンド・セットアップ<br>
-ショートカットコマンドの追加方法<br>
-Chrome拡張機能のショートカットコマンド設定ページに移動してください<br>⇒ [chrome://extensions/configureCommands](chrome://extensions/configureCommands)
+######2 :ショートカットコマンドのセットアップ<br>
+Chrome拡張機能のショートカットコマンド設定ページ([chrome://extensions/configureCommands](chrome://extensions/configureCommands))に移動してください。
 
 <br>
 
 	右のショートカットコマンドを追加してください : Ctrl + Shift + Z
-	(勿論、あなたの任意のコマンドで追加しても構いません)
+	(もちろん、あなたの任意のコマンドで追加しても構いません)
 	
 ------
 ###使い方
