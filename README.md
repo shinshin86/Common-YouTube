@@ -15,7 +15,7 @@ Download the crx binary from [Releases (Beta => v0.0.2).](https://github.com/shi
 To install the extension,<br>
 Open the [[chrome://extensions](chrome://extensions)] page and drag and drop the .crx file.
 
-######2 :Shortcut command Setup<br>
+######2 : Shortcut command Setup<br>
 Add shortcuts this extension<br>
 from [[chrome://extensions/configureCommands](chrome://extensions/configureCommands)] page.
 

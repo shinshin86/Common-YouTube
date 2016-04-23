@@ -16,7 +16,7 @@ crxファイル をこちらからダウンロードして下さい ⇒ [Release
 ######・拡張機能のインストール方法<br>
 Chrome拡張機能ページ([chrome://extensions](chrome://extensions))を開き、先ほどダウンロードしたcrxファイルをドラッグ・アンド・ドロップで格納してください。
 
-######2 :ショートカットコマンドのセットアップ<br>
+######2 : ショートカットコマンドのセットアップ<br>
 Chrome拡張機能のショートカットコマンド設定ページ([chrome://extensions/configureCommands](chrome://extensions/configureCommands))に移動してください。
 
 <br>
