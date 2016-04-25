@@ -1,6 +1,7 @@
 # Common-YouTube (Beta => v0.0.2)
 YouTube search at Chrome extension.
 
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](./LICENSE)
 
 
 ------
