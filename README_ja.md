@@ -1,4 +1,4 @@
-# Common-YouTube (Beta => v0.0.2)
+# Common-YouTube (Beta => v0.0.3)
 YouTube検索を行うためのChrome拡張機能
 
 
